@@ -1,0 +1,9 @@
+.grid-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.grid-item {
+  /* flex: 1; */
+  width: 20%;
+}
